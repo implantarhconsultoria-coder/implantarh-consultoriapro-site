@@ -1,0 +1,11 @@
+{
+  "name": "NeonFit App",
+  "short_name": "NeonFit",
+  "description": "App fitness mobile-first com feed, desafios, treino e perfil.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#030303",
+  "theme_color": "#c8ff00",
+  "orientation": "portrait"
+}
